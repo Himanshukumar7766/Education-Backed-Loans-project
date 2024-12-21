@@ -12,7 +12,9 @@ This contract supports the following:
 - Tracking of loan status (e.g., repaid or not)
 
 ## Contract Address
-The contract has not been deployed yet, but once deployed, you can view it on the Ethereum network at the specified contract address. For the current implementation, users should deploy the contract using tools like [Remix](https://remix.ethereum.org/), [Hardhat](https://hardhat.org/), or [Truffle](https://www.trufflesuite.com/).
+0xd9145CCE52D386f254917e481eB44e9943F39138
+![image](https://github.com/user-attachments/assets/a583ed4d-82d2-4fc0-8c8a-e2e3ef1da88c)
+
 
 ## Project Vision
 The vision of EducationBackedLoans is to provide an accessible, decentralized, and transparent platform for education-related financing. By leveraging blockchain technology, the platform seeks to:
